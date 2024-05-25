@@ -21,11 +21,4 @@ int tong(int n){
 	return tong;
 }
 
-int main(){
-	int n;
-	scanf("%d", &n);
-	for(int i=1; i<=n; i++){
-	if(i==tong(i)) printf("%d\n", i);
-}
-	return 0;
-}
+//day la phan da xoa
